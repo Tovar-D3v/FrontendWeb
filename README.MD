@@ -2,6 +2,8 @@
 
 Este es un proyecto frontend desarrollado con Angular. El propósito de este proyecto es gestionar usuarios, incluyendo la creación, edición y eliminación de usuarios, con una interfaz moderna y funcional.
 
+<img  alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"/>
+
 ## Requisitos previos
 
 Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes requisitos:
