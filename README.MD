@@ -23,3 +23,10 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes r
    npm install
    ng serve
    ```
+
+Comentario: 
+En este proyecto, las rutas del backend están personalizadas según la lógica y estructura que considero más adecuada para mi aplicación. Esto incluye nombres y estructuras que pueden diferir de las convenciones estándar o de otros proyectos. Cada ruta está diseñada para cumplir con los requisitos específicos de este sistema.
+   Backend:
+   ```bash
+      https://github.com/Tovar-D3v/DesarrolloWeb.Backend.git
+   ```
