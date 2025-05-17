@@ -10,6 +10,7 @@ import { MatSelectModule } from "@angular/material/select";
 import { MatSnackBar } from "@angular/material/snack-bar";
 import { UsersService } from "app/services/users/users.service";
 
+// Modal para editar usuarios
 @Component({
     selector: 'app-modal-edit-users',
     standalone: true,

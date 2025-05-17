@@ -6,5 +6,3 @@ export class User {
     lastName!: string;
     token!: string;
 }
-
-// El ! es tomado como un not null

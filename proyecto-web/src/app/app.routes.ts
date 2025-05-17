@@ -28,5 +28,3 @@ export const APP_ROUTE: Route[] = [ //APP_ROUTE arreglo de tipo route
       import('./authentication/auth.routes').then((m) => m.AUTH_ROUTE),
   },
 ];
-
-// Aqui se encuentra la ruta globales 
